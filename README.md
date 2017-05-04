@@ -1,7 +1,7 @@
 # MVC-Netbeans
 ## Screenshot
 Tampilan aplikasi mvc modul 11
------------- | -------------
+------------ | ------------- <br>
 ![screenshot_4](https://cloud.githubusercontent.com/assets/22116905/25687108/be2633c2-309d-11e7-95b9-20041d451aea.png)
 ![screenshot_5](https://cloud.githubusercontent.com/assets/22116905/25687109/be2b4d6c-309d-11e7-924d-e0fd14a3c283.png)
 ![screenshot_6](https://cloud.githubusercontent.com/assets/22116905/25687110/be2fe124-309d-11e7-82fc-c4f022bf9174.png)
