@@ -1,21 +1,19 @@
 # MVC-Netbeans
 ## Screenshot
-Tampilan Awal From Login Aplikasi
+Tampilan aplikasi mvc modul 11
 ------------ | -------------
-![pbo1](https://cloud.githubusercontent.com/assets/21316966/25462786/a233b432-2b1b-11e7-895e-e3d7563f2241.png)
+![screenshot_4](https://cloud.githubusercontent.com/assets/22116905/25687108/be2633c2-309d-11e7-95b9-20041d451aea.png)
+![screenshot_5](https://cloud.githubusercontent.com/assets/22116905/25687109/be2b4d6c-309d-11e7-924d-e0fd14a3c283.png)
+![screenshot_6](https://cloud.githubusercontent.com/assets/22116905/25687110/be2fe124-309d-11e7-82fc-c4f022bf9174.png)
+![screenshot_7](https://cloud.githubusercontent.com/assets/22116905/25687112/be5895f6-309d-11e7-9468-e3ff3d8fb207.png)
+![screenshot_8](https://cloud.githubusercontent.com/assets/22116905/25687111/be573076-309d-11e7-9220-1b1ebf92e013.png)
+![screenshot_9](https://cloud.githubusercontent.com/assets/22116905/25687113/be5a8136-309d-11e7-9b83-03cd2a3cbf97.png)
 
-Tampilan tabel dalam aplikasi setelah login | Tampilan form isian saat data table diklik
------------- | -------------
-![pbo2](https://cloud.githubusercontent.com/assets/21316966/25462787/a238fb72-2b1b-11e7-8759-3a8cd9b13064.png) | ![screenshot_18](https://cloud.githubusercontent.com/assets/21316966/25462784/a1dd06e6-2b1b-11e7-8e04-609b8e3c2106.png)
-
-Tampilan saat button DELETE diklik setelah memilih salah satu baris
------------- | -------------
-![pbo4](https://cloud.githubusercontent.com/assets/21316966/25462783/a18d6a5a-2b1b-11e7-9967-529cedd6c02a.png)
 
 ##Identitas :
 
-Nama : Muhammad Ridjal Fathoni Rosyidi <br>
-Kelas : XI RPL 4 <br>
-No : 24 <br>
-NIS : 4770/1489.070 <br>
+Nama : Anggyanisa Mutia Putri<br>
+Kelas : XI RPL 5<br>
+No : 04 <br>
+NIS : 4663/1382.070 <br>
 Nama Sekolah : SMK Telkom Malang
